@@ -41,7 +41,7 @@ namespace Extension_Method
 
     public static class CurrencyExtension
     {
-        public static string ToCurrency(this string value)//extension for TOCurrency 
+        public static string ToCurrency(this string value)//extension for TOCurrency  
         {
 
             try
