@@ -27,9 +27,6 @@ namespace Extension_Method
                         Console.WriteLine("invalid Option");
                         break;
 
-
-
-
                 }
                 
                
